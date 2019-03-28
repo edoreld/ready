@@ -29,6 +29,8 @@
         <descriptorRefs>
           <descriptorRef>jar-with-dependencies</descriptorRef>
         </descriptorRefs>
+        <finalName>mowersolver</finalName>
+        <appendAssemblyId>false</appendAssemblyId>
       </configuration>
     </plugin>
     <plugin>
